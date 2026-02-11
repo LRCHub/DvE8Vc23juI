@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Fight the night",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2026-02-11T07:15:06.652897Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fight the night",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/01_Fight_the_night_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fight the night",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/02_Fight_the_night_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fight the Night",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/03_Fight_the_Night_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fight the Night",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/04_Fight_the_Night_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fight the night",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_Fight_the_night_ONE_OK_ROCK.txt"
+    }
+  ]
+}
